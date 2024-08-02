@@ -1,1 +1,1 @@
-create web page for stopwatch application using internal css and internal js.
+create web page for stopwatch application using  css and  js.
